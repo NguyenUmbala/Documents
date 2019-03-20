@@ -14,7 +14,7 @@ Dockerfile là file chứa các settings và được định nghĩa rõ ràng b
 
 Docker container thực hiện các process trên môi trường OS ảo (môi trường OS ảo được tạo ra từ Docker images). Điều đó giúp container chạy nhanh hơn, nhẹ hơn, đỡ tốn tài nguyên so với máy ảo thông thường. 
 
-## Install and Docker:
+## Install Docker:
 
 - Link hướng dẫn (Step 1, 2): https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04
 
