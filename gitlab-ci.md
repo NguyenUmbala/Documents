@@ -38,7 +38,7 @@ CI/CD là bộ đôi công việc bao gồm Continuous Integration (tích hợp 
         - image: là image để run app
         - stage: là trạng thái như build, test, compile,...
         - before_script: các script chạy trước để cài đặt môi trường
-        - script: là các script chạy chính tùy loại image
+        - script: là các script chạy chính tùy loại stage
         - ...
 
     - Example:
